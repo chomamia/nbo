@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1702831468758,"sparkVersion":"3.5.0","uid":"StringIndexer_999a7376e5f4","paramMap":{"handleInvalid":"keep","outputCol":"EKYC_LEVEL_index","inputCol":"EKYC_LEVEL"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_999a7376e5f4__output","stringOrderType":"frequencyDesc"}}
